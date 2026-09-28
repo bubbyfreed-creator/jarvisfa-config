@@ -1,0 +1,8 @@
+{
+  "deepseek_url": "https://chat.deepseek.com",
+  "backup_urls": [
+    "https://chat.deepseek.io",
+    "https://www.deepseek.com/chat"
+  ],
+  "message": "نسخه ۱.۲۵۴"
+}
